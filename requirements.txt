@@ -1,6 +1,5 @@
 gunicorn==23.0.0
 matplotlib==3.9.2
-mkl-service==2.4.0
 PyQt6==6.9.1
 ucimlrepo==0.0.7
 webencodings==0.5.1
